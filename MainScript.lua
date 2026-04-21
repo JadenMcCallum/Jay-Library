@@ -741,7 +741,7 @@ UIAspectRatioConstraint.Parent = ImageLabel
 	end
 
 	local UIScale = Instance.new("UIScale")
-	UIScale.Scale = 1
+	UIScale.Scale = 0.6
 	UIScale.Parent = MainFrame
 
 	-- Settings Container (Main Color + dropdowns)
